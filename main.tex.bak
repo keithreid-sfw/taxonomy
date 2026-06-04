@@ -1,0 +1,39 @@
+\documentclass[10pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{lmodern}
+\usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry}
+\author{Keith Reid}
+\begin{document}
+\title{Proposing a Taxonomy of Restriction, Reduction and related Research from a grounded theory involving Needs, Alliance, Shared information, and Help}
+\author{Dr Keith S. Reid MBChB MRCPsych LLM PhD}
+\maketitle
+\section{Abstract}
+Meehl and Golden (1982) defined a taxonomy as the construction of classes and the assignment of things into them. 
+Reducing Restrictive Interventions comes with a penumbra of related ideas.
+These include Restraint Reduction, restraint, treatment, advocacy, rights-affirmation, risk assessment, initiatives and policies to influence these, and research.
+
+The whole constellation may benefit from a taxonomy and the present conference has seen stimulating initial discussion of taxonomies.
+Classifications exist for restraint: ``mechanical", ``cultural", ``chemical", and for policies, such as the six core strategies.
+Some other restraint classifications are trivially dichotomous such as long/short or necessary/unnecessary.
+This submission offers a taxonomy for all of it.
+
+The taxonomy supposes good care is a co-produced ``negotiation" in a ``dyad" comprising a person in care and their clinician.
+The dyad features Needs, Alliance, shared Information, and external Help, having the acronym NASH.
+NASH sits within the present author's theoretical framework, adapanomics.
+A good taxonomy would be exhaustive: all relevant restrictions and harms are breakdowns of that negotiation; all policies influence those; all useful research also.
+For example classification of restrictions by their rights violated seems fruitful but subsumed by Needs or Help in NASH.
+
+Adapanomics applies the well-established field of microeconomic game theory considering decision making under uncertainty.
+NASH allows mathematical models, formulation, suggests therapeutic and policy steps, predictions, generalisation, quantification while using every day language.
+NASH has the strengths of neither focussing on clinicians nor on persons in care.
+
+One risk in taxonomy is restraint-creep defined here.
+Restraint-creep is a social action suffixing bad things or negation of good things with ``restraint".
+Restraint itself is ``restraint restraint restraint".
+Conversely, borrowing from good practice in computer taxonomies, NASH is ``closed" having a fixed overall shape and meaning but ``extensible", able to handle new ideas without creep.
+\end{document}
