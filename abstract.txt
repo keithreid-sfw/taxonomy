@@ -1,5 +1,7 @@
 Proposing a taxonomy of problems solutions and research in Reducing Restrictive Interventions using a grounded theory of Needs, Alliance, Shared information, and Help
+
 Dr Keith S. Reid MBChB MRCPsych LLM PhD
+
 Meehl and Golden (1982) defined taxonomies as defining classes and assigning things into those. Reducing Restrictive Interventions (“RRI”) and its contexts include complex things: restraint, treatment, rights, risk, policies, and research. These may benefit from a taxonomy. The present group EViPRG has seen stimulating initial discussion of restraint taxonomies.
 
 Some restraint classifications are trivially dichotomous, e.g. long vs short; necessary vs unnecessary, with arbitrary cut-offs. Classifications exist for restraint: Policy taxonomies include the Six Core Strategies or Public Health Model. One risk is creep, a social action suffixing things with “-restraint”. The current author himself uses such apparently face-valid lists, perhaps having five to eight classes, such as “mechanical”, “prone” and “chemical”. Adding arbitrary good or bad things, one may additionally construct “culinary”, “aesthetic” or “elder” restraint, which sound real but simply bring bad food, aesthetics and ageism into a diluted class of “restraint”. This problem is called a lack of closedness. It reduces how coherent, exhaustive and credible the taxonomy is. A solution is to ground the taxonomy.
